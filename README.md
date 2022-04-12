@@ -1,6 +1,6 @@
 ## Olá! Eu sou o André Luiz 👋
 
-- <img height="14em" src="https://user-images.githubusercontent.com/51085904/145732783-9e2aedbd-18b9-4037-8e75-ce15645280fd.png"/> Desenvolvedor de sistemas na MadeiraMadeira
+- <img height="14em" src="https://user-images.githubusercontent.com/51085904/145732783-9e2aedbd-18b9-4037-8e75-ce15645280fd.png"/> Software Development Engineer - MadeiraMadeira
 - 📖 Estudando NodeJs, ReactJs, Javascript, TypeScript, PHP...
 - 🚀 #NeverStopLearning
 
