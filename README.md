@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André Luiz 👋
 
 - <img height="14em" src="https://www.fretebras.com.br/imagens/logo_facebook.jpg"/> Software Development Engineer - Fretebras
-- 📖 Estudando NodeJs, ReactJs, Javascript, TypeScript, PHP...
+- 📖 NodeJs, TypeScript, PHP, GO LANG
 - 🚀 #NeverStopLearning
 
 <div>
