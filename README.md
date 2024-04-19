@@ -1,6 +1,6 @@
 ## Olá! Eu sou o André Luiz 👋
 
-- <img height="14em" src="https://user-images.githubusercontent.com/51085904/145732783-9e2aedbd-18b9-4037-8e75-ce15645280fd.png"/> Software Development Engineer - MadeiraMadeira
+- <img height="14em" src="[https://user-images.githubusercontent.com/51085904/145732783-9e2aedbd-18b9-4037-8e75-ce15645280fd.png](https://www.fretebras.com.br/imagens/logo_facebook.jpg)"/> Software Development Engineer - Fretebras
 - 📖 Estudando NodeJs, ReactJs, Javascript, TypeScript, PHP...
 - 🚀 #NeverStopLearning
 
